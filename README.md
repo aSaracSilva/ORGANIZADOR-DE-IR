@@ -35,10 +35,6 @@ Facilitar o controle e o agrupamento de dados necessários para a declaração d
 - Espaço destinado a observações gerais
 - Anotações importantes relacionadas à declaração
 
-### 📄 Aba **TABELAS**
-- Tabelas de apoio para organização e padronização dos dados
-- Base para validações e futuras automações
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
